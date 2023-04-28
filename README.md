@@ -9,13 +9,14 @@ I'm Ryan (he/him). I'm a Machine Learning Infrastructure Engineer. Currently I'm
 
 ### Present
 - [Colisten](https://github.com/glassworks-projects/colisten): a music recommendation algorithm based on community and collaboration networks, not poularity.
+- [48k.club](https://github.com/glassworks-projects/48k-club): my record label's [website](https://48k.club), built in React using Gatsby.
 
 # 📚 Publications
 - [Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election](https://psyarxiv.com/2jksg) (2021): conducted sentiment analysis on a dataset of ~7M tweets.
 - [Neuroscience Cloud Analysis As a Service](https://www.biorxiv.org/content/10.1101/2020.06.11.146746v2) (2021): deployed [DeepGraphPose](https://github.com/paninski-lab/deepgraphpose) as a service on AWS.
 
 # ⚡ Also...
-I enjoy climbing, video games, and building stuff. I also [make music](https://www.instagram.com/adder48k/) and [run a record label](https://48k.club).
+I enjoy climbing, video games, and building stuff. I also [make music](https://www.instagram.com/adder48k/) and, as mentioned, run a record label.
 
 <!--
 **glassworks-projects/glassworks-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
