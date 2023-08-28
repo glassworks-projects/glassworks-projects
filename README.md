@@ -1,6 +1,6 @@
 # About Me
 
-I'm Ryan (he/him). I'm a Machine Learning Infrastructure Engineer. Currently I'm working on [Watson Assistant](https://www.ibm.com/products/watson-assistant) at IBM. I'm interested in NLP, Artificial General Intelligence, and responsible and process-based AI. I live in Brooklyn.
+I'm Ryan (he/him). Currently I'm working on [Layers](https://makelayers.com), helping to build a social and collaboration platform for musicians. I'm interested in NLP, Artificial General Intelligence, and responsible and process-based AI. I live in Brooklyn.
 
 # 🔭 Projects
 ### Past
