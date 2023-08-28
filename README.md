@@ -1,6 +1,6 @@
 # About Me
 
-I'm Ryan (he/him). Currently I'm working on [Layers](https://makelayers.com), helping to build a social and collaboration platform for musicians. I'm interested in NLP, Artificial General Intelligence, and responsible and process-based AI. I live in Brooklyn.
+I'm Ryan (he/him). I'm a software engineer and [musician](https://www.instagram.com/adder48k/). Currently I'm working on [Layers](https://makelayers.com), helping to build a social and collaboration platform for musicians. Previously I worked on machine learning infrastructure for [Watson Assistant](https://www.ibm.com/products/watsonx-assistant). I'm interested in NLP, Artificial General Intelligence, and responsible and process-based AI. I live in Brooklyn.
 
 # 🔭 Projects
 ### Past
@@ -16,7 +16,7 @@ I'm Ryan (he/him). Currently I'm working on [Layers](https://makelayers.com), he
 - [Neuroscience Cloud Analysis As a Service](https://www.biorxiv.org/content/10.1101/2020.06.11.146746v2) (2021): deployed [DeepGraphPose](https://github.com/paninski-lab/deepgraphpose) as a service on AWS.
 
 # ⚡ Also...
-I enjoy climbing, video games, and building stuff. I also [make music](https://www.instagram.com/adder48k/) and, as mentioned, run a record label.
+I enjoy climbing, video games, and building stuff. And as mentioned, I run a record label.
 
 <!--
 **glassworks-projects/glassworks-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
