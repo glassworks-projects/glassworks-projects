@@ -1,6 +1,6 @@
 # About Me
 
-I'm Ryan (he/him). I'm a software engineer and [musician](https://www.instagram.com/adder48k/). Currently I'm working on [Layers](https://makelayers.com), helping to build a social and collaboration platform for musicians. Previously I worked on machine learning infrastructure for [Watson Assistant](https://www.ibm.com/products/watsonx-assistant). I'm interested in NLP, Artificial General Intelligence, and responsible and process-based AI. I live in Brooklyn.
+I'm Ryan (he/him). I'm a software engineer and [musician](https://www.instagram.com/adder48k/). Currently I'm working on [Layers](https://makelayers.com), helping to build a social and collaboration platform for musicians. Previously I worked on machine learning infrastructure for [Watson Assistant](https://www.ibm.com/products/watsonx-assistant). I'm interested in music technology, NLP, Artificial General Intelligence, and responsible and process-based AI. I live in Brooklyn.
 
 # 🔭 Projects
 ### Past
