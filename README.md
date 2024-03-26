@@ -12,7 +12,7 @@ I'm Ryan (he/him). I'm a software engineer and [musician](https://www.instagram.
 - [48k.club](https://github.com/glassworks-projects/48k-club): my record label's [website](https://48k.club), built in React using Gatsby.
 
 # 📚 Publications
-- [Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election](https://psyarxiv.com/2jksg) (2021): conducted sentiment analysis on a dataset of ~7M tweets.
+- [Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election](https://www.nature.com/articles/s41599-023-02106-x) (2021): conducted sentiment analysis on a dataset of ~7M tweets.
 - [Neuroscience Cloud Analysis As a Service](https://www.biorxiv.org/content/10.1101/2020.06.11.146746v2) (2021): deployed [DeepGraphPose](https://github.com/paninski-lab/deepgraphpose) as a service on AWS.
 
 # ⚡ Also...
